@@ -130,7 +130,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/anirudhshandilya](https://www.linkedin.com/in/anirudh-shandilya/)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/anirudh-shandilya">LinkedIn</a>
   ·
   <a href="https://www.unimad.ai/portfolio/anirudhns">Portfolio</a>
   ·
