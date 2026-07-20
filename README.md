@@ -25,16 +25,55 @@ I build open-source cybersecurity tools that simplify compliance, strengthen det
 
 ---
 
-## 🚀 Currently Building
+# 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ **AuditPilot** | AI-powered ISO/IEC 27001 readiness assistant for evidence collection, CAPA tracking, and compliance automation. |
-| 🕸️ **ThreatWeaver** | Infrastructure-as-Code security graph engine that generates evidence-backed attack paths. |
-| 🚨 **SentinelTriage** | Local-first AI security log analysis platform with anomaly detection and MITRE ATT&CK mapping. |
-| 📧 **LLM TrustCheck** | AI-powered phishing email detection using RoBERTa for security analysts. |
+## 🛡️ AuditPilot
+> AI-powered ISO/IEC 27001 readiness platform that automates evidence collection, compliance tracking, CAPA management, and audit preparation.
+
+**Tech:** FastAPI • Python • SQLite • ISO 27001 • GRC
 
 ---
+
+## 🕸️ ThreatWeaver
+> Detection engineering platform that models infrastructure attack paths using graph analysis and MITRE ATT&CK mappings.
+
+**Tech:** Python • NetworkX • FastAPI • Security Analytics
+
+---
+
+## 🚨 SentinelTriage
+> Local-first AI platform for analysing authentication logs, detecting anomalies, explaining suspicious behaviour, and mapping findings to MITRE ATT&CK.
+
+**Tech:** FastAPI • Pandas • Scikit-learn • MITRE ATT&CK
+
+---
+
+## 📧 LLM TrustCheck
+> Phishing email detection using RoBERTa to assist security analysts with faster and more accurate email triage.
+
+**Tech:** Transformers • PyTorch • NLP
+
+---
+
+---
+
+# 📚 Research Interests
+
+I enjoy exploring the intersection of **Artificial Intelligence** and **Cybersecurity**, with a focus on building practical systems that improve governance, detection, and security decision-making.
+
+### Current Research Areas
+
+- 🤖 AI for Cybersecurity
+- 🛡️ Governance, Risk & Compliance (GRC)
+- 🔍 Detection Engineering
+- 🧠 LLM Security & Trust
+- 📊 Security Analytics
+- ⚔️ MITRE ATT&CK
+- ☁️ Cloud Security
+
+### Publications
+
+- 📝 Ongoing research in AI Security and Detection Engineering
 
 ## 🧰 Tech Stack
 
@@ -79,3 +118,14 @@ I build open-source cybersecurity tools that simplify compliance, strengthen det
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhnshandilya&theme=github-dark&hide_border=true" />
 
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- 🛡️ Building **AuditPilot** – AI-powered GRC & ISO/IEC 27001 readiness platform
+- 🕸️ Developing **ThreatWeaver** – Infrastructure attack path analysis engine
+- 🚨 Building **SentinelTriage** – Local-first AI security log investigation platform
+- 🤖 Researching **AI for Cybersecurity** and **LLM Security**
+- 📄 Preparing papers for **AAAI, USENIX Security, and NDSS**
+- 🌱 Contributing to open-source cybersecurity projects
