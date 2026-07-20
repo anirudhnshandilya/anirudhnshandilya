@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Anirudh N Shandilya — Information Security, GRC and AI Security" width="100%" />
+  <img src="./banner.svg" alt="Anirudh N Shandilya — Information Security, GRC and AI Security" width="100%" />
 </p>
 
 <p align="center">
