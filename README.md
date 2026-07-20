@@ -127,24 +127,10 @@
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhnshandilya&theme=github_dark" alt="GitHub profile summary" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anirudhnshandilya&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-> Dynamic cards depend on third-party services and may occasionally be rate-limited. The profile remains complete even when a card is temporarily unavailable.
-
----
-
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirudhshandilya">LinkedIn</a>
+  <a href="[https://www.linkedin.com/in/anirudhshandilya](https://www.linkedin.com/in/anirudh-shandilya/)">LinkedIn</a>
   ·
   <a href="https://www.unimad.ai/portfolio/anirudhns">Portfolio</a>
   ·
