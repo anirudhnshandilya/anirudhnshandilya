@@ -101,23 +101,6 @@ I enjoy exploring the intersection of **Artificial Intelligence** and **Cybersec
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudhnshandilya&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhnshandilya&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhnshandilya&theme=github-dark&hide_border=true" />
-
-</p>
 
 ---
 
